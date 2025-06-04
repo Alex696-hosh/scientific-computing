@@ -1,0 +1,20 @@
+Differences between compiled and interpreted programming languages, and classification of Python
+Compiled Languages
+
+1. Source code is translated into machine code by a compiler before execution.
+
+2. The resulting executable file can be run directly by the hardware.
+
+3. Generally faster execution since the code is already translated to machine language.
+
+   Examples: C, C++, Rust.
+
+Interpreted Languages
+
+1. Source code is executed line by line by an interpreter at runtime.
+
+2. No separate compilation step; the code is translated on the fly.
+
+3. Generally slower than compiled languages but offers more flexibility (e.g., dynamic typing).
+
+   Examples: Python, JavaScript, Ruby.
